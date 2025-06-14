@@ -49,9 +49,9 @@ To answer this, the following key questions were explored:
 
 ## 📂 Files Included
 
-- `mint_classics_analysis.sql` – All queries used with business question comments.
-- `Mint_Classics_Report.docx` – Final report with insights and recommendations.
-- `Buisness_Scenario.pdf`  – Pdf file containg the problem statement.
+- `Mint classics Inve3ntory Optimization query.sql` – All queries used with business question comments.
+- `Mint Classics Inventory optimization project report.pdf` – Final report with insights and recommendations.
+- `Mint_classics_project_scenario.pdf`  – Pdf file containg the problem statement.
 
 ---
 
